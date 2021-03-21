@@ -1,4 +1,4 @@
-# Coin's Kite
+# CoinsKite
 
 ### This App Is Made Using React Native 
 
